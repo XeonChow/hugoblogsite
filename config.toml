@@ -233,12 +233,12 @@ uglyURLs = false
         weight = 1
         pre = "external"
         post = "instagram"
-    [[menu.socials]]
-        url = "https://weibo.com/xeonchow"
-        name = "  "
-        weight = 2
-        pre = "external"
-        post = "weibo"
+#    [[menu.socials]]
+#        url = "https://weibo.com/xeonchow"
+#        name = "  "
+#        weight = 2
+#        pre = "external"
+#        post = "weibo"
     [[menu.socials]]
         url = "https://twitter.com/xeon_chow"
         name = "   "
